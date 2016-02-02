@@ -223,6 +223,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Derby](https://www.facebook.com/groups/free.code.camp.derby/)
   - [Exeter](https://www.facebook.com/groups/free.code.camp.exeter.uk/)    
   - [Hove](https://www.facebook.com/groups/free.code.camp.hove)
+  - [Kingston upon Hull](https://www.facebook.com/groups/free.code.camp.kingston.upon.hull/)
   - [Leeds](https://www.facebook.com/groups/free.code.camp.leeds/)
   - [Liverpool](https://www.facebook.com/groups/free.code.camp.liverpool/)
   - [London](https://www.facebook.com/groups/free.code.camp.london/)
